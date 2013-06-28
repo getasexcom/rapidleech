@@ -22,6 +22,7 @@ $sites = array(
 	array('name' => 'Axifile.com', 'link' => 'axifile\.com/?', 'regex' => 'You have request', 'pattern' => '@com\?@i', 'com/?'),
 	array('name' => 'Turboupload.com', 'link' => '(d\.turboupload\.com/)|(turboupload.com/download/)', 'regex' => '(Please wait while we prepare your file.)|(You have requested the file)'),
 	array('name' => 'Files.to', 'link' => 'files\.to/get/', 'regex' => 'You requested the following file'),
+	array('name' => 'GetaSex.com', 'link' => 'getasex\.com/public/', 'regex' => 'view'),
 	array('name' => 'Gigasize.com', 'link' => 'gigasize\.com/get\.php\?d=', 'regex' => 'Downloaded'),
 	array('name' => 'Ziddu.com', 'link' => 'ziddu\.com/', 'regex' => 'Download Link'),
 	array('name' => 'ZShare.net', 'link' => 'zshare\.net/(download|audio|video)/', 'regex' => 'Last Download'),
